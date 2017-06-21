@@ -5,6 +5,4 @@ Please follow the instructions below in order to complete the installation :
 
 -Extract the .rar archive provided into your "obs-plugins" folder, located in your OBS installation folder, by default "C:\Program Files (x86)\obs-studio\obs-plugins"
 
--Run "obs_studio_patch19.0.2.exe".
-
--Enjoy
+-Run "obs_studio_patch19.0.2.exe" under administrator privileges.
